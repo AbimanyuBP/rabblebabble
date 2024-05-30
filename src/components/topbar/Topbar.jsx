@@ -6,7 +6,7 @@ import NotificationsIcon from '@mui/icons-material/Notifications';
 
 export default function topbar() {
   return (
-    <div className="topbarContainer h-[50px] w-[100%] bg-[#f4e42f] flex items-center sticky top-0">
+    <div className="topbarContainer h-[50px] w-[100%] bg-[#D4B483] flex items-center sticky top-0">
         <div className="topbarLeft grow-[3]">
             <span className="Logo text-[24px] ml-[20px] font-bold text-[white] cursor-pointer">RabbleBabble</span>
         </div>
